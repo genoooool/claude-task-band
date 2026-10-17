@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="372" viewBox="0 0 900 372" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+<rect x="0" y="0" width="900" height="372" rx="14" fill="#262626"/>
+<g transform="translate(20,22)"><circle cx="8" cy="8" r="7" fill="#EF9F27"/><path d="M5 6 L11 6 M5 8 L11 8 M5 10 L9 10" stroke="#412402" stroke-width="1.3" stroke-linecap="round"/></g>
+<text x="48" y="35" font-size="15" fill="#e8e8e8">Needs attention</text>
+<text x="186.0" y="35" font-size="13" fill="#6e6e6e">Today 09:41</text>
+<text x="398.0" y="35" font-size="15" fill="#8a8a8a">中</text>
+<g transform="translate(433.0,21)"><rect x="1" y="1" width="32" height="16" rx="8" fill="#5f5f5f"/><circle cx="25" cy="9" r="6" fill="#ffffff"/></g>
+<text x="478.0" y="35" font-size="15" fill="#e8e8e8">EN</text>
+<g transform="translate(670,22)"><circle cx="8" cy="8" r="7" fill="#E24B4A"/><path d="M8 4 L8 9" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round"/><circle cx="8" cy="11.5" r="1" fill="#ffffff"/></g>
+<text x="694" y="35" font-size="15" fill="#8a8a8a">Scheduled</text>
+<text x="781.6" y="35" font-size="13" fill="#6e6e6e">Today 09:12</text>
+<g transform="translate(44,56)"><circle cx="8" cy="8" r="7" fill="#EF9F27"/><path d="M5 6 L11 6 M5 8 L11 8 M5 10 L9 10" stroke="#412402" stroke-width="1.3" stroke-linecap="round"/></g>
+<text x="72" y="69" font-size="15" fill="#e8e8e8">Video channel</text>
+<text x="880" y="69" font-size="13" fill="#6e6e6e" text-anchor="end">Today 09:41</text>
+<g transform="translate(68,90)"><circle cx="8" cy="8" r="7" fill="#EF9F27"/><path d="M5 6 L11 6 M5 8 L11 8 M5 10 L9 10" stroke="#412402" stroke-width="1.3" stroke-linecap="round"/></g>
+<text x="96" y="103" font-size="15" fill="#e8e8e8">Approve the new cover</text>
+<text x="880" y="103" font-size="13" fill="#6e6e6e" text-anchor="end">Today 09:41</text>
+<g transform="translate(92,124)"><circle cx="8" cy="8" r="7" fill="#378ADD"/><circle cx="5" cy="8" r="1" fill="#ffffff"/><circle cx="8" cy="8" r="1" fill="#ffffff"/><circle cx="11" cy="8" r="1" fill="#ffffff"/></g>
+<text x="120" y="137" font-size="15" fill="#e8e8e8">Draft the newsletter</text>
+<text x="880" y="137" font-size="13" fill="#6e6e6e" text-anchor="end">Today 09:40</text>
+<g transform="translate(44,158)"><circle cx="8" cy="8" r="7" fill="#378ADD"/><circle cx="5" cy="8" r="1" fill="#ffffff"/><circle cx="8" cy="8" r="1" fill="#ffffff"/><circle cx="11" cy="8" r="1" fill="#ffffff"/></g>
+<text x="72" y="171" font-size="15" fill="#e8e8e8">Research</text>
+<text x="880" y="171" font-size="13" fill="#6e6e6e" text-anchor="end">Today 09:38</text>
+<g transform="translate(68,192)"><circle cx="8" cy="8" r="7" fill="#378ADD"/><circle cx="5" cy="8" r="1" fill="#ffffff"/><circle cx="8" cy="8" r="1" fill="#ffffff"/><circle cx="11" cy="8" r="1" fill="#ffffff"/></g>
+<text x="96" y="205" font-size="15" fill="#e8e8e8">Compare three AI tools</text>
+<text x="880" y="205" font-size="13" fill="#6e6e6e" text-anchor="end">Today 09:38</text>
+<g transform="translate(44,226)"><circle cx="8" cy="8" r="7" fill="#7F77DD"/><circle cx="8" cy="8" r="2.5" fill="#ffffff"/></g>
+<text x="72" y="239" font-size="15" fill="#e8e8e8">Blog</text>
+<text x="880" y="239" font-size="13" fill="#6e6e6e" text-anchor="end">Today 09:15</text>
+<g transform="translate(68,260)"><circle cx="8" cy="8" r="7" fill="#8e8e8e"/><path d="M5 8 L7 10 L11 6" fill="none" stroke="#262626" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="96" y="273" font-size="15" fill="#8a8a8a">Blog redesign</text>
+<text x="880" y="273" font-size="13" fill="#6e6e6e" text-anchor="end">Today 08:02</text>
+<g transform="translate(92,294)"><circle cx="8" cy="8" r="7" fill="#7F77DD"/><circle cx="8" cy="8" r="2.5" fill="#ffffff"/></g>
+<text x="120" y="307" font-size="15" fill="#e8e8e8">Weekly post outline</text>
+<text x="880" y="307" font-size="13" fill="#6e6e6e" text-anchor="end">Today 09:15</text>
+<g transform="translate(68,328)"><circle cx="8" cy="8" r="6.25" fill="none" stroke="#8e8e8e" stroke-width="1.5" stroke-dasharray="2.6 2.3"/><path d="M5.5 8 L10.5 8" stroke="#8e8e8e" stroke-width="1.6" stroke-linecap="round"/></g>
+<text x="96" y="341" font-size="15" fill="#e8e8e8">Fix image links</text>
+<text x="880" y="341" font-size="13" fill="#6e6e6e" text-anchor="end">Today 08:50</text>
+</svg>

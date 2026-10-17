@@ -6,13 +6,11 @@
 
 If you run many Claude Code sessions and scheduled tasks, the sidebar folds them away and it is easy to forget which ones need you. Task Band answers one question at a glance: *what needs my attention right now?*
 
-```
-◉ Needs attention  Today 05:34          中 (━━●) EN          ✓ Scheduled
-   ≡ Video channel                                       Today 05:34
-      ≡ Approve the new cover                            Today 05:34
-         ··· Draft the newsletter                        Today 05:37
-   ··· Research                                          Today 05:37
-```
+![Task Band expanded: Needs attention lists sessions grouped by project, each with a colored status icon (yellow ready for review, blue running, purple not opened, gray stopped), the time on the right, and the language switch in the middle](docs/preview-en.svg)
+
+Collapsed, it is a single line above the prompt. When nothing needs you:
+
+![Task Band collapsed in the Claude desktop app, showing Needs attention, the language switch and Scheduled, with "Nothing needs you in the last 24 hours"](docs/screenshot-en.png)
 
 ## Features
 
@@ -28,12 +26,12 @@ If you run many Claude Code sessions and scheduled tasks, the sidebar folds them
 
 | Icon | State | When |
 | --- | --- | --- |
-| Blue `···` | Running | The session is working right now |
-| Red `!` | Needs you | A scheduled run stopped and waits for you (expired login, rate limit, a decision) |
-| Yellow `≡` | Ready for review | Finished and asks for your review or reply |
-| Purple `●` | Not opened yet | Finished after you last looked at it |
-| Gray dashed `–` | Stopped midway | Ended without finishing its turn |
-| Gray `✓` | Done | Nothing left for you |
+| <img src="docs/icons/running.svg" width="16" alt="blue running icon"> | Running | The session is working right now |
+| <img src="docs/icons/failed.svg" width="16" alt="red needs-you icon"> | Needs you | A scheduled run stopped and waits for you (expired login, rate limit, a decision) |
+| <img src="docs/icons/review.svg" width="16" alt="yellow ready-for-review icon"> | Ready for review | Finished and asks for your review or reply |
+| <img src="docs/icons/unread.svg" width="16" alt="purple not-opened icon"> | Not opened yet | Finished after you last looked at it |
+| <img src="docs/icons/stopped.svg" width="16" alt="gray dashed stopped icon"> | Stopped midway | Ended without finishing its turn |
+| <img src="docs/icons/done.svg" width="16" alt="gray done icon"> | Done | Nothing left for you |
 
 ## Requirements
 
