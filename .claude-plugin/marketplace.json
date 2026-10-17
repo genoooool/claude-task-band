@@ -1,0 +1,16 @@
+{
+  "name": "claude-task-band",
+  "owner": {
+    "name": "genoooool"
+  },
+  "plugins": [
+    {
+      "name": "task-band",
+      "source": "./",
+      "description": "See which Claude Code scheduled tasks and sessions are running, need you, or finished unread, in one band above the prompt."
+    }
+  ],
+  "metadata": {
+    "description": "Task Band: a status band for the Claude desktop app that shows which Claude Code scheduled tasks and sessions need your attention."
+  }
+}

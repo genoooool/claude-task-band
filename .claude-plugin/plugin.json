@@ -1,0 +1,11 @@
+{
+  "name": "task-band",
+  "version": "1.0.0",
+  "description": "A status band above the Claude Code prompt (desktop app) that shows which scheduled tasks and sessions are running, need your reply, or finished while you were away. One click opens the session.",
+  "author": { "name": "genoooool" },
+  "homepage": "https://github.com/genoooool/claude-task-band",
+  "repository": "https://github.com/genoooool/claude-task-band",
+  "license": "MIT",
+  "keywords": ["claude-code", "claude-desktop", "scheduled-tasks", "session-status", "notifications", "mod", "status-bar"],
+  "types": "./types/index.d.ts"
+}
